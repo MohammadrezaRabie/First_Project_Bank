@@ -8,7 +8,7 @@ public class Main {
 
         Console console = new Console();
 
-        System.out.println("<<< Hello, Welcome to Demis Bank System >>>");
+        System.out.println("<<< Hello, Welcome to Bank System >>>");
         System.out.println("* * * * * * * * * * * * * * * * * * * * * * *");
 
         console.menu();
